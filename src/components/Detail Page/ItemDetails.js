@@ -65,9 +65,9 @@ const ItemDetails = () => {
             className="video"
             src={youtubeKey}
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         </div>
         <div className="backdrop_image_container">
@@ -107,7 +107,7 @@ const ItemDetails = () => {
         <div className="popularity text-center">
           {/* <h1>{itemToBeShown.itemPopularity}</h1> */}
 
-          <marquee Scrollamount="15" behavior="scroll" direction="horizontal">
+          <marquee scrollamount="15" behavior="scroll" direction="horizontal">
             #movies #movie #film #cinema #films #hollywood #actor #moviereview
             #series #bluray #actors #follow #video #moviestar #netflix
             #moviescenes #music #filmmaking #horror #instagood
