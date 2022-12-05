@@ -19,7 +19,6 @@ const GetMovies = () => {
       })
       .catch((err) => {
         setError(err.message);
-        console.log(alert({ error }));
       });
   };
 

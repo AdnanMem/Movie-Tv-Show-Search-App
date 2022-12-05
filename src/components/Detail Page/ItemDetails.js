@@ -28,7 +28,6 @@ const ItemDetails = () => {
     })
     .catch((err) => {
       setError(err.message);
-      alert({ error });
     });
 
   axios
