@@ -13,3 +13,5 @@ Clone the app from Git repository.
 Run 'npm install' in your terminal.
 
 Run 'npm start' in your terminal.
+
+Search for your favourite movie / tv show.
