@@ -1,0 +1,36 @@
+.details-container {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.bg-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.vote-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border-color: transparent;
+  background: gray;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.popularity {
+  margin-top: 60px;
+  background: #dcdcdc;
+  padding: 0.5rem 0;
+}
+
+.back-icon-img {
+  width: 30px;
+  height: auto;
+}

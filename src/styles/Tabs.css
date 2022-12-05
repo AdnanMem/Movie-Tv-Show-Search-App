@@ -1,0 +1,15 @@
+.main-title {
+  color: gray;
+}
+
+.tab-btn {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border: none;
+  background: white;
+}
+
+.tab-btn.active {
+  background: gray;
+  color: white;
+}
